@@ -9,7 +9,7 @@ This tutorial was actually made for highschool students to learn Git and Github.
 
 After completing this task, you would be finally ready to contribute to Open Source, so take your time and go through slowly and ask for help wherever you get stuck.
 
-### [Read this article on Git to get a better idea on what Git is.](https://opensource.com/resources/what-is-git)
+#### [Read this article on Git to get a better idea on what Git is.](https://opensource.com/resources/what-is-git)
 
 # Welcome to the tutorial of getting started with Git.
 
