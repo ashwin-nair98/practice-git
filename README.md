@@ -192,7 +192,7 @@ $git push
 
 * Now after it uploads the new file, through the browser go to `https://github.com/<your_username>/Practice-Git`, where `<your_username>` is your github username.
 
-* Now your in your copy of main file. To merge it with the main repository goto https://www.github.com/fossmec/practice-git and press the option "New Pull request". Set the head for as `<your-username>/practice-git` and base fork as `fossmec/practice-git`. Create a pull request and you're done!
+* Now your in your copy of main file. To merge it with the main repository goto https://www.github.com/fossmec/practice-git and press the option "New Pull request". Set the head for as `<your-username>/practice-git` and base fork as `fossmec/practice-git`.  Create a pull request and you're done!
 <img src ="http://i.imgur.com/MBAcznv.png"></img>
 
 <img src="http://i.imgur.com/YCBp1oE.png"></img>
